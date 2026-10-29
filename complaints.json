@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Adarsh sharma",
+        "room": "705",
+        "category": "Electricity",
+        "description": "fan not working",
+        "status": "Resolved"
+    },
+    {
+        "id": 2,
+        "name": "Adarsh",
+        "room": "705",
+        "category": "Cleaning",
+        "description": "room is not cleaned from 2 days",
+        "status": "Pending"
+    }
+]

@@ -1,0 +1,27 @@
+# Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Virtual environments
+
+venv/
+.venv/
+
+# Local databases
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Private configuration
+
+.env
+
+# Temporary operating system files
+
+Thumbs.db
+.DS_Store
+
+# Local backup file
+main_backup.py
